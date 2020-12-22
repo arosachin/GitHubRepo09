@@ -44,7 +44,11 @@ public class Grocery {
         for ( int i=0; i< groceryList.size();i++) {
             System.out.println(" Item at position " + (i+1) + " is : " + groceryList.get(i));
         }
+
+        System.out.println("How are you doing?");
+
     }
+
     
 }
 
